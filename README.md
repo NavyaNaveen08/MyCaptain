@@ -1,2 +1,2 @@
-# MyCaptain
-This repository includes my projects during the MyCaptain Python Programming course.
+# MyCaptain1
+This repository includes my first projectduring the MyCaptain Python Programming course.
